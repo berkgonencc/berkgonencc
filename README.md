@@ -8,3 +8,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkgonencc)](https://github.com/berkgonencc/github-readme-stats)
+
+## 🛠️ Skills
+
+- C# CSS3 JavaScript HTML5 Solidity Firebase .Net Bootstrap NPM NodeJS React MicrosoftSQLServer SQLite Adobe Photoshop Postman
