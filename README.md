@@ -5,10 +5,6 @@
 - 🌱 I’m currently learning Vue.js and Unity technology.
 - 💬 Add me on [LinkedIn](https://www.linkedin.com/in/berk-gonenc-14810265/)
 
-
-
-<--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkgonencc)](https://github.com/berkgonencc/github-readme-stats)-->
-
 ## 🛠️ Skills
 <div>
   <img src= "https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="c#" width="40" height="40"/>&nbsp;
