@@ -7,7 +7,7 @@
 
 
 
-<--![![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkgonencc)](https://github.com/berkgonencc/github-readme-stats)!-->
+<--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkgonencc)](https://github.com/berkgonencc/github-readme-stats)-->
 
 ## 🛠️ Skills
 <div>
