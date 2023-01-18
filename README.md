@@ -2,7 +2,7 @@
 
 - 🤝 I'm a full stack developer with strong interest in backend development.
 - 🔭 I’m currently working on Personal Blog Project with c#.
-- 🌱 I’m currently learning Vue.js and Unity technology.
+- 🌱 I’m currently learning Vue.js and Solidity.
 - 💬 Add me on [LinkedIn](https://www.linkedin.com/in/berk-gonenc-14810265/)
 
 ## 🛠️ Skills
