@@ -2,7 +2,7 @@
 
 - 🤝 I'm a full stack developer with strong interest in backend development.
 - 🔭 I’m currently working on Mobile App Project with React Native.
-- 🌱 I’m currently learning AngularJS.
+- 🌱 I’m currently learning Unity.
 - 💬 Add me on [LinkedIn](https://www.linkedin.com/in/berk-gonenc-14810265/)
 
 ## 🛠️ Skills
