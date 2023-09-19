@@ -1,8 +1,8 @@
 ## 🚀 About Me
 
-- 🤝 I'm a full stack engineer with strong interest in backend development.
-- 🔭 I’m currently working on Web App Project.
-- 🌱 I’m currently learning Kubernates.
+- 🤝 I'm a full-stack engineer with a strong interest in backend development.
+- 🔭 I’m currently working on a Web App Project.
+- 🌱 I’m currently learning Vue.js.
 - 💬 Add me on [LinkedIn](https://www.linkedin.com/in/berk-gonenc-14810265/)
 
 ## 🛠️ Skills
