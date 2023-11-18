@@ -1,7 +1,7 @@
 ## 🚀 About Me
 
 - 🤝 I'm a software engineer with a strong interest in backend development.
-- 🔭 I’m currently working on a Web App Project.
+- 🔭 I’m currently working on a SaaS Project.
 - 🌱 I’m currently learning PyTorch.
 - 💬 Add me on [LinkedIn](https://www.linkedin.com/in/berkgonenc/)
 
