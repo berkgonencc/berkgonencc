@@ -1,8 +1,8 @@
 ## 🚀 About Me
 
-- 🤝 I'm a software engineer with a strong interest in backend development.
-- 🔭 I’m currently working on a SaaS Project.
-- 🌱 I’m currently learning GoLang.
+- 🤝 I'm a software engineer passionate about **backend development** and **scalable systems**.
+- 🔭 Currently working on **AI, IoT, and Cybersecurity projects** as part of my upcoming **Master’s in Machine Learning & Cybersecurity**.
+- 🌱 Exploring **AI-driven architectures**, **secure cloud solutions**, and **IoT integrations**.
 - 💬 Add me on [LinkedIn](https://www.linkedin.com/in/berkgonenc/)
 
 ## 🛠️ Skills
